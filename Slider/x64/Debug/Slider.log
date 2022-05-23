@@ -1,0 +1,7 @@
+﻿  Slider.cpp
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(127,1): warning C4005: “CALLBACK”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\gl\glut.h(33): message : 参见“CALLBACK”的前一个定义
+D:\Person\course\First2\OpenGL\2021262784-谭鑫\Slider\Slider.cpp(499,34): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+D:\Person\course\First2\OpenGL\2021262784-谭鑫\Slider\Slider.cpp(508,35): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: “link.exe”已退出，代码为 1104。
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”

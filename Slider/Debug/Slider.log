@@ -1,0 +1,4 @@
+﻿  Slider.cpp
+D:\Person\course\First2\OpenGL\2021262784-谭鑫\Slider\Slider.cpp(499,34): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+D:\Person\course\First2\OpenGL\2021262784-谭鑫\Slider\Slider.cpp(508,35): warning C4805: “==”: 在操作中将类型“GLboolean”与类型“bool”混合不安全
+  Slider.vcxproj -> D:\Person\course\First2\OpenGL\2021262784-谭鑫\Slider\Debug\Slider.exe
